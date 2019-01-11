@@ -1,0 +1,10 @@
+//Adam Lebrigui
+//Enora Georgeault
+var prenom = "Adam";
+var nom = "Lebrigui";
+var salutation = "Bonjour, mon nom est " + prenom + " " + nom + "!";
+var age = "18";
+var discipline = "analytique d'affaires";
+var informations = "J'ai " + age + "ans et j'etudie en " + "discipline" + ".";
+var introduction = salutation + "\n" + informations;
+print(introduction);
